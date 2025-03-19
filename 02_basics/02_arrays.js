@@ -3,16 +3,16 @@
 const myHeroes = ["thor", "IronMan", "spiderman"];
 const dcHeroes = ["superman", "flash", "batman"];
 
-// myHeroes.push(dcHeroes);
+//myHeroes.push(dcHeroes);
 
-// console.log(myHeroes);
+//console.log(myHeroes);
 // console.log(myHeroes[3]);
 
-// const allHeroes = myHeroes.concat(dcHeroes);
-// console.log(allHeroes);
+const allHeroes = myHeroes.concat(dcHeroes);
+console.log(allHeroes);
 
-const allHeroes = [...myHeroes, ...dcHeroes];
-//console.log(allHeroes);
+// const allHeroes = [...myHeroes, ...dcHeroes];
+// console.log(allHeroes);
 
 const another_array = [1, 2, 3, [4, 5, 6], 7, [4, 5]];
 
