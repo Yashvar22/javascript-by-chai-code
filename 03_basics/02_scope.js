@@ -2,7 +2,7 @@
 // const b = 20;
 // var c = 30;
 //var c = 300;
-
+// var ka scope globally hota hai
 let a = 300;
 if (true) {
   let a = 10;
