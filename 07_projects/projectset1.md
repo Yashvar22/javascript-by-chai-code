@@ -113,7 +113,7 @@ window.addEventListener('keydown', (e) => {
 
 ```
 
-#project 6 solution
+##project 6 solution
 
 ```javascript
 const randomColor = function () {
